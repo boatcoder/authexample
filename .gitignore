@@ -1,0 +1,4 @@
+.environment
+db.sqlite3
+static/
+.vscode/
